@@ -1,5 +1,5 @@
 {
-	"name": "kubisgroup.org/kgcdm",
+	"name": "kubisgroup/kgcdm",
 	"description": "javascript console debuging manager",
 	"type": "library",
 	"keywords": [
