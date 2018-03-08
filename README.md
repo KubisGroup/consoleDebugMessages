@@ -4,7 +4,7 @@ show your javascript debug messages in Browser console
 ## How to install
 **using composer**
 ```bash
-composer require kubisgroup/kgcdm
+composer require kubisgroup/kgcdm dev-master
 ```
 **using Git**
 ```bash
