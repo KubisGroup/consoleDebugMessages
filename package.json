@@ -1,0 +1,38 @@
+"repositories": [
+	{
+		"type": "package",
+		"package": {
+			"name": "kubisgroup/kgcdm",
+			"description": "javascript console debuging manager",
+			"type": "library",
+			"keywords": [
+				"log",
+				"logging",
+				"debug",
+				"debuging"
+			],
+			"homepage": "https://github.com/KubisGroup/consoleDebugMessages",
+			"license": "MIT",
+			"authors": [
+				{
+					"name": "Jan Kubka",
+					"email": "jan.kubka@kubisgroup.org",
+					"homepage": "http://www.kubisgroup.org",
+					"role": "CEO"
+				}
+			],
+			"version": "1.0.0",
+			"source": {
+				"url": "git://github.com/KubisGroup/consoleDebugMessages.git",
+				"type": "git",
+				"reference": "master"
+			},
+			"autoload": {
+				"psr-0" : {
+					"kubisgroup\\kgcdm" : "js"
+				}
+			}
+		}
+    	}
+],
+
