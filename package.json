@@ -21,11 +21,11 @@
 					"role": "CEO"
 				}
 			],
-			"version": "1.0.0",
+			"version": "dev-master",
 			"source": {
 				"url": "git://github.com/KubisGroup/consoleDebugMessages.git",
 				"type": "git",
-				"reference": "master"
+				"reference": "1.0.0"
 			},
 			"autoload": {
 				"psr-0" : {
